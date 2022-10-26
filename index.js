@@ -19,7 +19,7 @@ const BotName = 'SYAHDAN BOT';
 const instagram = 'syahdanproject_- syhdnfrahira'; 
 const aktif = 'Kapan bot aktif';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
-            + 'VERSION:3.0\n' 
+            + 'VERSION:18.10.0\n' 
             + 'FN:SyahdanprojectID\n' // Nama kamu
             + 'ORG:SYAHDANBOT;\n' // Nama bot
             + 'TEL;type=CELL;type=VOICE;waid=62895415835408:+62 895-4158-35408\n' //Nomor whatsapp kamu
