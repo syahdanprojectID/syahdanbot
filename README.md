@@ -52,7 +52,7 @@ Jika pertama kali membuka termux lakukan perintah berikut :
 Lalu clone repo
 ```bash
 > git clone https://github.com/syahdanprojectID/syahdanbot
-> cd vvipbot-wa
+> cd syahdanbot
 ```
 Lanjutkan dengan
 ```bash
